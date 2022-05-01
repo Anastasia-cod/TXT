@@ -1,1 +1,10 @@
+Summary Short description: What? Where? When?
 
+STR: 
+Description step to reproduced
+
+Actual result: 
+Description actual result
+    
+Expected result:
+Description expected result
