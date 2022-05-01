@@ -1,0 +1,5 @@
+1)Skill1: JS;
+2)Skill2: Git;
+3)Skill3: Postman;
+4)Skill4: Terminal;
+5)Skill5: QA theory
